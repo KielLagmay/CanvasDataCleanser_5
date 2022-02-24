@@ -1,0 +1,7 @@
+Client/.ipynb_checkpoints
+Client/__pycache__
+Server/.ipynb_checkpoints
+Server/__pycache__
+.DS_Store
+Server/.DS_Store
+Client/.DS_Store
